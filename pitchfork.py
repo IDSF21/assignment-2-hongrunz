@@ -6,7 +6,7 @@ from plotly.offline import iplot
 import plotly.graph_objs as go
 import numpy as np
 
-# st.set_page_config(layout="wide")
+st.set_page_config(layout="wide")
 
 st.image('https://cdn.pitchfork.com/assets/misc/hp-og-image.jpg')
 

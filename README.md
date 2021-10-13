@@ -36,10 +36,14 @@ Additionally, I implemented a search function using a search bar to print out al
 
 ## Development Process
 
-This is a solo project. I spent around 6 hours developing this application.
+This is a solo project. I spent around 10 hours developing this application.
+
+Around 3 hours are spent on deciding on a dataset and the relevant exploration topics.
 
 Around .5 hour is spent on researching how to run sqlite3 queries on sqlite3 datasets in streamlit.
 
 Around .5 hour is spent on researching the different plots available.
 
 Around 5 hours are spent coding up the application.
+
+Around 1 hour is spent on configuring requirements and deploying on streamlit.

@@ -1,1 +1,5 @@
 streamlit==0.81
+plotly
+sqlite3
+pandas
+numpy
